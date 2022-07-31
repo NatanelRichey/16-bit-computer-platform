@@ -1,4 +1,4 @@
-# 16-bit-computer-platform
+# 16-bit-computer-platform written in HDL
 Von-Neumann architecture, designed to execute programs written in HACK machine language (written by Shimon Schocken and Noam Nisan, professors in the Hebrew University of Jerusalem). Platform is written in HDL, built from logic gates.
 
 Main parts of the Hack computer:
