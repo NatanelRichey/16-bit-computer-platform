@@ -14,3 +14,5 @@ Memory: This chip includes three chip-parts: RAM16K, Screen, and Keyboard.
 Hack ALU: Produces two kinds of outputs: a "main" 16-bit output resulting from operating on the two 16-bit inputs, and two 1-bit "status outputs" named 'zr' and 'ng'.
 RAM16K: 16-bit / 16384-register memory
 CPU: This chip is constructed according using the ALU and register chips specified.
+
+Note: Assumed implementation for DFF (data flip-flop) and ROM32K.
